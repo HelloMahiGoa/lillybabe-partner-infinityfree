@@ -1,4 +1,4 @@
 ﻿User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-INFINITYFREE-SUBDOMAIN.infinityfreeapp.com/sitemap.xml
+Sitemap: https://lillybabe.xo.je/sitemap.xml
